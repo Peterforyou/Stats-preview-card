@@ -21,7 +21,7 @@ This is a task from Frontend Mentor to build a Stats Preview Card to aid my prof
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/web3bridge_task_2/)
+- Live Site URL:(https://peterforyou.github.io/Stats-preview-card/)
 
 ### Built with
 
