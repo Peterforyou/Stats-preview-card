@@ -1,0 +1,36 @@
+      .container {
+      margin: 50px auto;
+      max-width: 350px;
+      background-color: hsl(244, 38%, 16%);
+    }
+      .content {
+      display: flex;
+      flex-direction: column-reverse;
+      height: 90vh;
+      width: 100%;
+    }
+    .box:last-child {
+      background: url(./images/image-header-mobile.jpg) no-repeat center center/cover;
+      width: 100%;
+      height: 100%;
+    }
+    .box:first-child {
+      padding: 20px 20px;
+    }
+    h1 {
+      text-align: center;
+      padding-top: 10px;
+    }
+    p {
+      text-align: center;
+    }
+    .number {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .number div {
+      padding-bottom: 30px;
+    }
